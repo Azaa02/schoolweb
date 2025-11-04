@@ -1,0 +1,29 @@
+.maincard {
+  width: 100%;
+  color: white;
+}
+.childcard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+}
+.movieinfo {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.body {
+  background-color: black;
+}
+.card {
+  background-color: dimgrey;
+  border-radius: 10px;
+}
+.movieparent {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
