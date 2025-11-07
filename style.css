@@ -27,3 +27,11 @@
   flex-direction: column;
   gap: 50px;
 }
+.popular {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+  color: white;
+}
